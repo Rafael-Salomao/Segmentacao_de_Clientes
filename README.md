@@ -1,5 +1,9 @@
 # Segmentacao_de_Clientes
 
+<p align="center">
+  <img width="460" height="300" src="imagem01.png">
+</p>
+
 ## 1.0 Introdução
 
 ## 2.0 Qual problema foi resolvido
