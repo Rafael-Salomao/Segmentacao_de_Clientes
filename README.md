@@ -76,6 +76,6 @@ Após isso, foi analisado o perfil médio dos clientes dentro de cada um dos clu
 
 - Cluster 4: composto majoritariamente por mulheres, média de idade 32 anos, salário médio 86k. Tem um score de 82 e representa cerca 19,5% da carteira de clientes. (Clientes estratégicos)
 
-## 8.0 Agradecimentos e referências
+## 7.0 Agradecimentos e referências
 
 [1] Modelo STP: Descubra a melhor maneira de colocar suas estratégias de comunicação em prática. Camelo Digital, 2022. Disponível em: < https://camelo.digital/2021/03/01/modelo-stp/ >. Acesso em: 10, dezembro de 2022.
